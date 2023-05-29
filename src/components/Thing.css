@@ -1,0 +1,10 @@
+.card-image {
+    width: 50vw;
+    height: 50vh;
+    object-fit: cover;
+  }
+  
+  .content-card {
+    width: 50%;
+    height: 50%;
+  }

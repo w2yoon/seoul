@@ -1,0 +1,34 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.App {
+  text-align: center;
+  font-family: 'hanna_pro';
+  background-color: white; /* change this to set background color */
+  color: white;
+  min-height: 100vh;
+}
+
+.text-effect {
+  font-family: 'hanna_air';
+  color: black;
+  font-size: 40px;
+  text-shadow: 2px 2px 4px rgba(133, 133, 133, 0.5);
+  margin-bottom: -0.5%;
+}
+
+.MuiImageListItemBar-title {
+  font-family: 'hanna_air', sans-serif;
+}
+
+.MuiImageListItemBar-subtitle {
+  font-family: 'hanna_air', sans-serif;
+}
+
+.MuiButton-root {
+  font-family: 'hanna_air', sans-serif;
+}

@@ -1,0 +1,12 @@
+.custom-navbar {
+    justify-content: center;
+    position: fixed;
+    position: absolute;
+    z-index: 1;                                                                 
+    font-size: 2rem;
+    width: 100%;
+    height: 56px;
+}
+  
+
+  
