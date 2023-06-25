@@ -4,7 +4,6 @@ const xml2js = require('xml2js');
 const app = express();
 const port = 8080;
 var cors = require('cors')
-const myModule = require('../index.js');
 
 app.use(cors())
 
